@@ -1,0 +1,4 @@
+curl -L -o LICENSE https://raw.githubusercontent.com/github/choosealicense.com/gh-pages/_licenses/mit.txt
+git add LICENSE
+git commit -m "Add MIT license"
+git push
