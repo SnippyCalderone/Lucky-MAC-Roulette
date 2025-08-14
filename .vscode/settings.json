@@ -1,8 +1,0 @@
-{
-    "python.defaultInterpreterPath": "C:\\Users\\zachp\\Desktop\\MAC-Cycle-Tool\\venv\\Scripts\\python.exe",
-    "python.terminal.activateEnvironment": true,
-    "python.analysis.typeCheckingMode": "basic",
-    "files.exclude": {
-      "**/__pycache__": true
-    }
-  }  
